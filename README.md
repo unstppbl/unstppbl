@@ -1,4 +1,4 @@
-### Fancy seeing you here! <img src="https://raw.githubusercontent.com/unstppbl/unstppbl/master/wave.gif" width="30px">
+### Hi there! <img src="https://raw.githubusercontent.com/unstppbl/unstppbl/master/wave.gif" width="30px">
 
 I am unstppbl, fine me here:
 
