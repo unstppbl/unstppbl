@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/unstppbl/unstppbl/master/wave.gif" width="30px">
 
-I am unstppbl, fine me here:
+I am unstppbl, find me here:
 
 [![Instagram Badge](https://img.shields.io/badge/-unstppb1-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/unstppb1/)](https://instagram.com/unstppb1)
 [![Twitter Badge](https://img.shields.io/badge/-unstppbl-c14438?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/unstppbl)](https://twitter.com/unstppbl)
